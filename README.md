@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/), and clic on **"Tic Tac Toe"**.<br>
+If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Then clic on **"Tic Tac Toe"**.<br>
 <br>
 
 This project was made in a few hours, and is about **discovering UI with Unity**.<br>
